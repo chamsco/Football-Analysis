@@ -1,3 +1,2 @@
 # Football-Analysis
-### réalisé par raydinem Massamba et charles-emannuel EBAGNITCHIE rania
-
+### réalisé par RAYDINE MASSAMBA et charles emanuel EBAGNITCHIE rania rania
