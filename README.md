@@ -1,2 +1,2 @@
 # Football-Analysis
-### réalisé par raydinem Massamba et charles emanuel EBAGNITCHIE
+### réalisé par raydinem Massamba et charles-emannuel EBAGNITCHIE
